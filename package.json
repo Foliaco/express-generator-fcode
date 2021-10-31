@@ -1,0 +1,19 @@
+{
+  "name": "helping-express",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "bin":"src/index.js",
+  "scripts": {
+    "generate-project": "node src/index.js",
+    "g-p": "node src/index.js",
+    "help":"node src/help.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "prompt": "^1.2.0",
+    "recursive-copy": "^2.0.13"
+  }
+}
