@@ -7,6 +7,10 @@
   "scripts": {
     "generate-project": "node src/index.js",
     "g-p": "node src/index.js",
+    "generate-controller":"node src/controller.js",
+    "g-control":"node src/controller.js",
+    "generate-router":"node src/router.js",
+    "g-router":"node src/router.js",
     "help":"node src/help.js"
   },
   "keywords": [],
