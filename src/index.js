@@ -14,3 +14,4 @@ if(process.argv.length<3){
     return;
 }
 generateProject(name)
+

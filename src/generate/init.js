@@ -98,6 +98,7 @@ const createMoreMkdir=(name,path)=>{
         }
         else{
             console.log("\x1b[36m"+`The folder ${name} created`);
+            console.log("-- Write npm install");
             console.log("\x1b[0m");
             return;
         }
