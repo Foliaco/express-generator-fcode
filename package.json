@@ -13,7 +13,12 @@
     "g-router": "node src/router.js",
     "help": "node src/help.js"
   },
-  "keywords": [],
+  "keywords": [
+    "cli",
+    "expressjs",
+    "generator",
+    "helping"
+  ],
   "author": "",
   "license": "ISC",
   "dependencies": {
